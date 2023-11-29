@@ -18,7 +18,7 @@ This project is a simple Spring Boot application implementing RESTful APIs for a
  
 ## Getting Started
  1. Clone the repository:
- git clone https://github.com/your-username/your-spring-boot-project.git
+ git clone https://github.com/PaviG128/Assignment-6-Ecart-Rest-api.git
    cd your-spring-boot-project
 
 ## Build and run the project
